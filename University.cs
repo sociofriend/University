@@ -17,7 +17,6 @@ namespace University2
             list_teachers = new List<Teacher>();
             list_students = new List<Student>();
             list_ft_relation = new List<FT_relation>();
-
         }
         #endregion
 
