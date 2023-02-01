@@ -136,6 +136,7 @@ class Program
         #endregion
 
         Console.ReadLine();
+        Console.WriteLine("ChangesForGit");
     }
 }
 
